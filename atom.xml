@@ -3,11 +3,11 @@
   <title>Miss</title>
   
   
-  <link href="https://luvmis.github.io/project/atom.xml" rel="self"/>
+  <link href="https://luvmis.github.io/atom.xml" rel="self"/>
   
-  <link href="https://luvmis.github.io/project/"/>
+  <link href="https://luvmis.github.io/"/>
   <updated>2025-11-15T10:21:00.671Z</updated>
-  <id>https://luvmis.github.io/project/</id>
+  <id>https://luvmis.github.io/</id>
   
   <author>
     <name>Smart cat.</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Using Hexo to write.</title>
-    <link href="https://luvmis.github.io/project/2025/11/15/HexoStart/"/>
-    <id>https://luvmis.github.io/project/2025/11/15/HexoStart/</id>
+    <link href="https://luvmis.github.io/2025/11/15/HexoStart/"/>
+    <id>https://luvmis.github.io/2025/11/15/HexoStart/</id>
     <published>2025-11-15T07:23:57.000Z</published>
     <updated>2025-11-15T10:21:00.671Z</updated>
     
@@ -30,10 +30,10 @@
     
     
     
-    <category term="tutorial" scheme="https://luvmis.github.io/project/categories/tutorial/"/>
+    <category term="tutorial" scheme="https://luvmis.github.io/categories/tutorial/"/>
     
     
-    <category term="Hexo" scheme="https://luvmis.github.io/project/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://luvmis.github.io/tags/Hexo/"/>
     
   </entry>
   

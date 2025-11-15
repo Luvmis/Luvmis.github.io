@@ -5,8 +5,8 @@
     
     <entry>
       <title>Using Hexo to write.</title>
-      <link href="/project/2025/11/15/HexoStart/"/>
-      <url>/project/2025/11/15/HexoStart/</url>
+      <link href="/2025/11/15/HexoStart/"/>
+      <url>/2025/11/15/HexoStart/</url>
       
         <content type="html"><![CDATA[<h1 id="Hexo-using"><a href="#Hexo-using" class="headerlink" title="Hexo using"></a>Hexo using</h1><p>在<strong>根目录</strong>用终端选择<strong>框架</strong>初始化文章</p><p><code>hexo new [layout] [name]</code></p><p><strong>更新</strong>博客</p><p><code>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</code></p><h1 id="图床搭建"><a href="#图床搭建" class="headerlink" title="图床搭建"></a>图床搭建</h1><p>PicGo + aliyun OSS + Typora</p><p><strong>aliyun OSS配置</strong>：</p><ol><li>进入<strong>控制台</strong>，搜索<strong>对象存储 OSS</strong>，创建<strong>Bucket</strong>（名字有用）</li><li>鼠标放在头像进入<strong>Accesskey</strong>获取<strong>AccessKey ID,AccessKey Secret</strong>（选定的地区后面有用）</li><li>进入<strong>PicGo</strong>在<strong>图床设置</strong>的<strong>阿里云OSS</strong>，填写对应配置信息</li></ol><p><img src="https://luv.oss-cn-beijing.aliyuncs.com/blog/image-20251115181514169.png" alt="image-20251115181514169"></p><p><strong>Typora 设定</strong></p><p>进入Typora上面功能栏文件的偏好设置</p><p><img src="https://luv.oss-cn-beijing.aliyuncs.com/blog/image-20251115181845252.png" alt="image-20251115181845252"></p>]]></content>
       
